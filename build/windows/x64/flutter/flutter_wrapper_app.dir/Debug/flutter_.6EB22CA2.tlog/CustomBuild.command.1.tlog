@@ -1,0 +1,10 @@
+^C:\USERS\ANTHONY\DOWNLOADS\BIRTHDAY_CARD_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Anthony/Downloads/birthday_card_app/windows -BC:/Users/Anthony/Downloads/birthday_card_app/build/windows/x64 --check-stamp-file C:/Users/Anthony/Downloads/birthday_card_app/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

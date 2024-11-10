@@ -1,0 +1,1 @@
+ C:\\Users\\Anthony\\Downloads\\birthday_card_app\\.dart_tool\\flutter_build\\05ff5d7aac8adbe75953fdcdb3bba6b0\\native_assets.yaml: 

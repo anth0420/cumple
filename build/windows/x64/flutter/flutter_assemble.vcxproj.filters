@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Anthony\Downloads\birthday_card_app\build\windows\x64\CMakeFiles\64141ad1c45e3d1536551c486c8bf0e9\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Anthony\Downloads\birthday_card_app\build\windows\x64\CMakeFiles\f8cbe187b92b6080eaa67fa2674398f1\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Anthony\Downloads\birthday_card_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Anthony\Downloads\birthday_card_app\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B13B4B97-AAAF-3EDB-BCCC-D5A274AB7BEA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
